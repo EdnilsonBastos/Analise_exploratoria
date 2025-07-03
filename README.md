@@ -9,6 +9,6 @@ O projeto é composto por dois arquivos:<br>
 
    - cancer_pulmao.csv: Este arquivo contém o conjunto de dados.
 
-   - MVP_boas_praticas.ipynb: Este é um arquivo de notebook Python, que  contém o código e a análise do seu projeto.
+   - MVP_boas_praticas.ipynb: Este é um arquivo de notebook Python, que  contém o código e a análise do projeto.
 
 <a href="https://github.com/EdnilsonBastos/Analise_exploratoria/blob/main/MVP_boas_praticas.ipynb">Notebook do código do projeto</a>.<br><br>

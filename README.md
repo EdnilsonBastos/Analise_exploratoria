@@ -25,7 +25,7 @@ A análise e pré-processamento do dataset câncer de pulão demonstram a import
 
 # As três hipóteses levantadas foram validadas:
 
-O índice de massa corporal do paciente, O nível de colesterol do paciente, a hipertensão arterial e a sobrevivência têm correlação? Sim, entre as características bmi e cholesterol_level a visualização do gráfico com hetmap demonstrou que há uma forte correlação positiva entre BMI e Cholesterol_level, os demais atributos não demonstram correlação.
+O índice de massa corporal do paciente, O nível de colesterol do paciente, a hipertensão arterial e a sobrevivência têm "correlação"? Sim, entre as características bmi e cholesterol_level a visualização do gráfico com hetmap demonstrou que há uma forte correlação positiva entre BMI e Cholesterol_level, os demais atributos não demonstram correlação.
 
 Considerando idade (jovens, adultos, idosos), quais grupos demográficos são mais vulneráveis ao câncer de pulmão? O gráfico de barras reitera que a taxa de sobrevivência é mais elevada na faixa etária de "Meia idade" em comparação com os grupos "Jovem" e "Idoso". Os grupos "Jovem" e "Idoso" têm taxas de sobrevivência muito próximas entre si e são as mais baixas.
 

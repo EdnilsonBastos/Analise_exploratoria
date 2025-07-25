@@ -6,7 +6,7 @@ Este conjunto de dados contém dados sobre mortalidade por câncer de pulmão e 
 # Hipóteses do Problema
 As hipóteses traçadas são as seguintes:
 
-O índice de massa corporal do paciente, O nível de colesterol do paciente, a hipertensão arterial e a sobrevivência tem correlação?
+O índice de massa corporal do paciente, O nível de colesterol do paciente, a hipertensão arterial e a sobrevivência tem "correlação"?
 
 Considerando idade (jovens, adultos, idosos), quais grupos demográficos são mais vulneráveis ao câncer de pulmão?
 
